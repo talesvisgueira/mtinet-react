@@ -1,0 +1,9 @@
+
+# Ignore a pasta node_modules
+node_modules
+
+# Ignore public
+public
+
+# ignore all logs
+*.log
